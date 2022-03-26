@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style media="screen">
+      body{
+        background-color:#CD5C5C;
+      }
+      h1, h3{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        color: #FFF8DC;
+        text-align: center;
+      }
+
+      .topnav {
+      background-color: #FFA07A;
+      overflow: hidden;
+      }
+
+      .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 16px 16px;
+      text-decoration: none;
+      font-size: 25px;
+      font-family:'Montserrat', sans-serif;
+      }
+
+
+    </style>
+    <title>Dashni e thurme</title>
+  </head>
+  <body>
+    <h1>Dashni e thurme</h1>
+    <hr>
+    <h3>lovemade with hands(handmade)</h3>
+    <div class="topnav">
+      <a class="active" href="#home">Faqja kryesore</a>
+      <a href="#punime">Punime</a>
+      <a href="#kontakt">Kontakt</a>
+      <a href="rrethnesh">Rreth nesh</a>
+      <a href="#SocialMedia">Social media</a>
+      <a href="#materiale">Materialet qe perdorim</a>
+    </div>
+  </body>
+</html>
